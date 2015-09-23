@@ -7,8 +7,5 @@ This script only takes in the location of the text file to read from. For exampl
 ## Requirements
 This assumes you have the following installed:
 * Python (pre-installed on Macs)
-* cowsay
-* lolcat
-
-To install cowsays, install HomeBrew and run: "brew install cowsay"
-To install lolcat, install Ruby and run: "gem install lolcat"
+* cowsay (install HomeBrew and run: "brew install cowsay")
+* lolcat (install Ruby and run: "gem install lolcat")
